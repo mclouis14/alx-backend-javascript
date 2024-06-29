@@ -1,0 +1,19 @@
+{
+  "name": "0x02-es6_classes",
+  "version": "1.0.0",
+  "description": "0x02. ES6 Classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "eslint": "^9.6.0",
+    "jest": "^29.7.0"
+  }
+}
