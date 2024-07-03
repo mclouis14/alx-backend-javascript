@@ -1,3 +1,3 @@
-export default function getStudentsByLocation(students, city) {
-  return students.filter((student) => student.location === city);
+export default function getStudentIdsSum(students) {
+  return students.reduce((sum, student) => sum + student.id, 0);
 }
